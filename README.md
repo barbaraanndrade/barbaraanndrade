@@ -1,4 +1,4 @@
-## <h1 align="center"> Olá, meu nome é Bárbara Andrade, e sou Desenvolvedora Front-End</h1>
+## <h1 align="center"> Olá, meu nome é Bárbara Andrade, e sou Desenvolvedora front-end</h1>
 ## <h1 align="center"> Seja bem-vindo!</h1> 
  
 
