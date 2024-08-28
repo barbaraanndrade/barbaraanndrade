@@ -1,5 +1,5 @@
-## <h1 align="center"> Olá, meu nome é Bárbara Andrade, e sou Desenvolvedora front-end</h1>
-## <h1 align="center"> Seja bem-vindo!</h1> 
+## Olá, eu sou a Bárbara Andrade, desenvolvedora Front-End 👩‍💻
+
  
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=barbaraanndrade&show_icons=true&theme=radical" />
